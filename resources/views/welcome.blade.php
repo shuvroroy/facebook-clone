@@ -382,8 +382,7 @@
                             <div class="px-3 pt-0 pb-2">
                                 <div class="flex items-center border-b pb-3">
                                     <img alt="" class="block w-10 h-10 rounded-full" src="https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-1/c0.0.40.40/p40x40/15965627_1248767438493482_2912203675748580358_n.jpg?oh=275a309dca6487d05f09b91d7c77c6d6&oe=5B222E71">
-                                        <textarea class="appearance-none flex-1 ml-2 mt-4" id="body" name="body" placeholder="What's on your mind?">
-                                        </textarea>
+                                        <textarea class="appearance-none flex-1 ml-2 mt-4" id="body" name="body" placeholder="What's on your mind?"></textarea>
                                     </img>
                                 </div>
                             </div>
